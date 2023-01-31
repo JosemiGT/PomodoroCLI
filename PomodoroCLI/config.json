@@ -1,0 +1,6 @@
+{
+    "PomodoroTime":25,
+    "PomodoroBreak":5,
+    "PomodoroNumberByTimeBlock":4,
+    "TimeBlockBreak":15
+}
